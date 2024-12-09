@@ -1,2 +1,2 @@
-# pokedex
-Compute engine service for Pokedex Project
+# API Template
+API Template
